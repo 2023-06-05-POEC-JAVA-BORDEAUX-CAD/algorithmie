@@ -1,0 +1,16 @@
+ALGORITHME nombre_inf_100
+VARIABLES
+  nb EST_DU_TYPE NOMBRE
+  i EST_DU_TYPE NOMBRE
+DEBUT_ALGORITHME
+  LIRE nb
+  TANT_QUE (nb > 100) FAIRE
+    DEBUT_TANT_QUE
+      AFFICHER "Le nombre saisi doit être inférieur à 100"
+      LIRE nb
+    FIN_TANT_QUE
+  POUR i ALLANT_DE nb A 100
+    DEBUT_POUR
+      AFFICHER i + " "
+    FIN_POUR
+FIN_ALGORITHME
