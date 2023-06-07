@@ -10,7 +10,12 @@
 
 ## TP
 
+### Individuel
+
 - [TP individuel : Autonomie consolidation structures de contrôle et itératives](./1-tp/individuel.md)
+
+### En équipe
+
 - [TP Banque : partie 1](./1-tp/tp1_banque_part1.md)
 - [TP Banque : partie 2](./1-tp/tp2_banque_part2.md)
 - [TP Banque : partie 3](./1-tp/tp3_banque_part3.md)

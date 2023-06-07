@@ -9,7 +9,6 @@ DEBUT_ALGORITHME
   LIRE lastname
   LIRE firstname
   LIRE age
-
   // Affichage de infos avec la concatenation grâce à l'opérateur +
   AFFICHER "Bonjour " + lastname + " " + firstname + " vous avez " + age + " an(s)."
  FIN_ALGORITHME

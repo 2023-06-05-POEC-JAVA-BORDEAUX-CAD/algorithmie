@@ -11,3 +11,4 @@ DEBUT_ALGORITHME
   FIN_TANT_QUE
   AFFICHER 'Vous avez saisi ' + nb
 FIN_ALGORITHME
+// PS : avec la boucle FAIRE TANT QUE on évite de se repeter pour demander à l'utilisateur de saisir un nombre. Essayez-le par vous même.
